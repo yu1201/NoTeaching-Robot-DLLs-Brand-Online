@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "channel": "brand-online",
+  "distributionTag": "dev-20260917",
+  "stage": "development-candidate",
+  "companyReleaseApproved": false,
+  "assets": [
+    {
+      "name": "CANDIDATE-brand-online-2026.09.14.0945-windows-x64.zip",
+      "size": 141557993,
+      "sha256": "0d2f422c4668dbe80c22ff1c7d3393ffc51119e4ebe73a1b2fb6816482de1fb4"
+    },
+    {
+      "name": "SDK-import-pairs-brand-online-20260917-windows-x64.zip",
+      "size": 330679,
+      "sha256": "54d7643983bc3bd8791da158b4d81aadaf2f66967037769da1333e75227ca50f"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "size": 242,
+      "sha256": "f85934396d8138b2c437a8bcefa33db06d2caa18b0c65dfc2d49266256595a3a"
+    }
+  ]
+}
