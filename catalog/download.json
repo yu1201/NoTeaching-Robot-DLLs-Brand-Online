@@ -1,24 +1,32 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "channel": "brand-online",
-  "distributionTag": "dev-20260917",
-  "stage": "development-candidate",
-  "companyReleaseApproved": false,
+  "version": "2026.09.18.1800",
+  "distributionTag": "full-dll-20260918",
   "assets": [
     {
-      "name": "CANDIDATE-brand-online-2026.09.14.0945-windows-x64.zip",
-      "size": 141557993,
-      "sha256": "0d2f422c4668dbe80c22ff1c7d3393ffc51119e4ebe73a1b2fb6816482de1fb4"
+      "name": "FullDllRuntime-brand-online-2026.09.18.1800.zip",
+      "size": 143897769,
+      "sha256": "f5657908fac2996c19fdac179948326d3aef456615106512e0c24f1c39bcf0f4",
+      "url": "https://github.com/yu1201/NoTeaching-Robot-DLLs-Brand-Online/releases/download/full-dll-20260918/FullDllRuntime-brand-online-2026.09.18.1800.zip"
     },
     {
-      "name": "SDK-import-pairs-brand-online-20260917-windows-x64.zip",
-      "size": 330679,
-      "sha256": "54d7643983bc3bd8791da158b4d81aadaf2f66967037769da1333e75227ca50f"
+      "name": "FullDllSDK-brand-online-20260918T122051Z-3fb7a5ca278e.zip",
+      "size": 7164591,
+      "sha256": "413794afb5916917dc1d4a023b3ed6a03b7b215cb90545387d38fc887decd9d4",
+      "url": "https://github.com/yu1201/NoTeaching-Robot-DLLs-Brand-Online/releases/download/full-dll-20260918/FullDllSDK-brand-online-20260918T122051Z-3fb7a5ca278e.zip"
+    },
+    {
+      "name": "HK-Pathlynx-CORPLA-Setup-v2026.09.18.1800.exe",
+      "size": 135648954,
+      "sha256": "7cfc2a201de73c1b9ed496f256f1ee9e5ef0d9a01f7f01fb7d72cf07165d5b8c",
+      "url": "https://github.com/yu1201/NoTeaching-Robot-DLLs-Brand-Online/releases/download/full-dll-20260918/HK-Pathlynx-CORPLA-Setup-v2026.09.18.1800.exe"
     },
     {
       "name": "SHA256SUMS.txt",
-      "size": 242,
-      "sha256": "f85934396d8138b2c437a8bcefa33db06d2caa18b0c65dfc2d49266256595a3a"
+      "size": 353,
+      "sha256": "bf8760f57e2f1aa42287b0d707701adabc1cf179f8c74979323e06756b4c5f1d",
+      "url": "https://github.com/yu1201/NoTeaching-Robot-DLLs-Brand-Online/releases/download/full-dll-20260918/SHA256SUMS.txt"
     }
   ]
 }
